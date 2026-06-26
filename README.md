@@ -23,7 +23,7 @@ Maternal health is a priority, especially in regions where access to immediate m
 - Weekly updates on baby size (compared to familiar items).
 - Educational insights into what's happening at each stage.
 
-### 3.  Personalized Nutrition Guide
+### 3.  Personalized Nutrition guide
 - AI-generated meal plans tailored to your specific week of pregnancy.
 - Focus on locally available Ugandan ingredients for optimal health.
 
